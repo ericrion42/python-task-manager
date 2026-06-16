@@ -63,7 +63,7 @@ def main():
             task_num = int(input("Enter task number to delete: "))
             delete_task(task_num - 1)
         elif choice == "5":
-            print("Goodbye!")
+            print(f"{YELLOW}Goodbye!{RESET}")
             break
         else:
             print("Invalid choice, please try again!")
