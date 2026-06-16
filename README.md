@@ -1,2 +1,5 @@
 # python-task-manager
-Just a simple CLI task manager built with Python- baby's first Python app.
+
+## About
+
+A command-line task manager built in Python. Supports creating, viewing, updating, and deleting tasks.
